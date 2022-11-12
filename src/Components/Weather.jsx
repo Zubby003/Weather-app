@@ -16,7 +16,7 @@ const Weather = () => {
     key: "28fd15358cdecbc1a1dfef367e71acef",
   };
 
-  const iconURL = "https:openweathermap.org/img/w/";
+  const iconURL = "https://openweathermap.org/img/w/";
 
   const getInput = (e) => {
     setInput(e.target.value);
